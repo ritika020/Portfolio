@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Java, SpringBoot, TensorFlow, Csharp
 
 ## Education
-- B.Tech, Computer Science and Engineering | Indian Institute of Technology, Kharagpur (_August 2017_ to _April 2021_)								       		
+- Bachelor  of Engineering, Information Technology | Pune Institute of Computer Technology, Pune (_August 2017_ to _April 2021_)								       		
 
 ## Work Experience
 **Software Engineer @ MasterCard (_August 2021- Present_)**
